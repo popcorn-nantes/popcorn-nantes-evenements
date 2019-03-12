@@ -8,6 +8,6 @@ about: Créer un nouvel évènement popcorn
 
 <hr />
 
-[Voir notre site: (https://popcorn-nantes.github.io/)](https://popcorn-nantes.github.io/)
+[Voir notre site: https://popcorn-nantes.github.io/](https://popcorn-nantes.github.io/)
 
 
