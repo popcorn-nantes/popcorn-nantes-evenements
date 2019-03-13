@@ -5,8 +5,13 @@ about: Créer un nouvel évènement popcorn
 
 **Si tu as un compte github, ajoute un pouce en l'air sur cette issue si tu viens, pour avoir une idée du nombre de participant·e·s ! Merci** 💚 
 
-**Lieu:**
-**Date:**
+{{lieu}}
+{{date et heure}}
+
+{{lien openstreetmap vers le lieu}}
+
+{{description de l'évènemnt}}
+
 
 <hr />
 
