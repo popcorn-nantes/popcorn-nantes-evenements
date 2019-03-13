@@ -9,7 +9,7 @@ about: Créer un nouvel évènement popcorn
 
 {{lien openstreetmap vers le lieu}}
 
-{{description de l'évènemnt}}
+{{description de l'évènement}}
 
 
 <hr />
