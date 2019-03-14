@@ -11,10 +11,9 @@ about: Créer un nouvel évènement popcorn
 
 {{description de l'évènement}}
 
-
-<img width="250" alt="capture d ecran 2019-03-01 a 09 53 45" src="https://user-images.githubusercontent.com/335495/53627153-00a92200-3c08-11e9-8427-208809995b1f.png">
-
 **Pour ne rater aucun évènement, il suffit de "watcher" ce dépôt !**
+
+<img width="250" alt="watch" src="https://user-images.githubusercontent.com/335495/53627807-b2951e00-3c09-11e9-8bf4-e14eda222ea9.png">
 
 
 <hr />
